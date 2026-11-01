@@ -2,9 +2,9 @@
 
 ## 👋 About Me
 
-I'm Panda. I enjoy turning ideas into working software and learning by building things across different areas of technology.
+I like turning ideas into working software — whether it's a practical tool or an experiment worth trying.
 
-I like making useful tools, trying new ideas, and figuring out how things work — without limiting myself to one field.
+I'm curious about different areas of technology, and I learn best by building, testing, and figuring things out for myself.
 
 ## 🧰 Tech Stack
 
@@ -44,7 +44,7 @@ I like making useful tools, trying new ideas, and figuring out how things work �
 ![SQLite](https://img.shields.io/badge/SQLite-285D88?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3C6E91?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2C8558?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-A35C00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-A35C00?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
@@ -57,7 +57,7 @@ I like making useful tools, trying new ideas, and figuring out how things work �
 
 <div align="center">
   <a href="https://github.com/Koreapanda4444"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="https://linkedin.com/in/byungjun-oh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/byungjun-oh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="https://instagram.com/panda091019_obj"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
   <br />
   <a href="https://www.buymeacoffee.com/panda4444_kr"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-E3A008?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" /></a>
